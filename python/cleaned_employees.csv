@@ -1,0 +1,9 @@
+employee_id,name,email,department,job_role,salary,joining_date,performance_score,attendance_percent,manager_id,location,employment_type,years_of_experience,salary_band,performance_category
+1,John Doe,johndoe@email.com,Engineering,Software Eng,75000.0,2021-01-15,8.5,95.0,101,New York,Full-Time,5,Medium,High
+2,Jane Smith,janesmith.email.domain,Hr,HR Manager,,2020-02-15,9.1,98.0,0,Chicago,Contract,6,High,High
+3,Bob Brown,bob@email.com,Sales,Sales Exec,55000.0,2022-05-20,5.5,80.0,102,New York,Full-Time,4,Medium,Low
+4,Alice Green,alice@email.com,Engineering,Backend Dev,85000.0,2023-01-10,,92.0,101,San Francisco,Full-Time,3,High,Low
+5,Charlie White,charlie@white.com,Sales,intern,12000.0,2024-06-01,9.0,85.0,102,Remote,Intern,2,Low,High
+6,John Doe,johndoe@email.com,Engineering,Software Eng,75000.0,2021-01-15,8.5,95.0,101,New York,Full-Time,5,Medium,High
+7,Eve Black,eve@b.com,Marketing,SEO,65000.0,2019-11-01,4.0,,103,Austin,Part-Time,7,Medium,Low
+8,Dan Grey,dan@g.com,Engineering,QA,75000.0,2021-08-10,7.5,90.0,101,New York,Full-Time,5,Medium,Medium
